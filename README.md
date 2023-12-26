@@ -1,5 +1,4 @@
-Hi, I’m @lada-zabotkina, PM
-I'm here just to observe
+Hi, I’m @lada-zabotkina, PM. I'm here just to observe
 
 <!---
 lada-zabotkina/lada-zabotkina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
